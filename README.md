@@ -1,4 +1,3 @@
-# zaraa online shop
 # Zaraa Online Shop - Return Policy 
 
 ** Буцалтын журам - Зараа онлайн дэлгүүр **
